@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container div,
+.container2 div {
+    border: 1px #ccc solid;
+    padding: 10px;
+}
+
+.box3 {
+    flex-basis: 27%;
+}
